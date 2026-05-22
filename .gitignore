@@ -1,0 +1,17 @@
+#  Global rules for all projects
+**/.venv/
+**/.env
+**/__pycache__/
+**/misc
+
+
+*.pyc
+
+
+
+
+# personal_research_agent
+personal_research_agent/.git/
+personal_research_agent/.gitignore
+personal_research_agent/.python-version
+personal_research_agent/*.ipynb
